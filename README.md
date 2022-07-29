@@ -29,22 +29,22 @@ If you enjoy this list please take the time to recommend it to a friend and foll
 And remember: With great power comes... (we already know).
 
 ---------------------------------------------------------------------------------------------
-Level 1 | Basic
-------------------------------------------------|--------------------------------------------
-[0] | TCP or UDP server just to receive messages
-[1] | TCP chat server
-[2] | UDP chat server
-[3] | Multi-threaded UDP or TCP chat server
-[4] | Server for file transfers
-[5] | Caesar Cipher tool
-[6] | TCP chat server -> The messages should be encoded with Caesar Cipher
-[7] | ROT13 Cipher
-[8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher
-[9] | Remote command execution
-[10] | Recreate the Netcat tool
+Level 1 | Basic | Complete
+------------------------------------------------|--------------------------------------------|--------------------------------------------
+[0] | TCP or UDP server just to receive messages | 
+[1] | TCP chat server |
+[2] | UDP chat server | 
+[3] | Multi-threaded UDP or TCP chat server | 
+[4] | Server for file transfers | 
+[5] | Caesar Cipher tool | 
+[6] | TCP chat server -> The messages should be encoded with Caesar Cipher | 
+[7] | ROT13 Cipher | 
+[8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | 
+[9] | Remote command execution | 
+[10] | Recreate the Netcat tool | 
 --------------------------------------------------------------------------------------------
-Level 2 | Essential
-------------------------------------------------|-------------------------------------------
+Level 2 | Essential | Complete
+------------------------------------------------|-------------------------------------------|--------------------------------------------
 [11] | Simple port scanner
 [12] | Port scanner with OS fingerprint using TTL (Time To Live)
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?)
@@ -66,8 +66,8 @@ Level 2 | Essential
 [29] | SQLi database retriever
 [30] | Spam creator
 --------------------------------------------------------------------------------------------
-Level 3 | Advanced Network Attacks
-------------------------------------------------|-------------------------------------------
+Level 3 | Advanced Network Attacks | Complete
+------------------------------------------------|-------------------------------------------|--------------------------------------------
 [31] | Payload for reverse shell
 [32] | Payload to capture screenshots
 [33] | Implement a Botnet
@@ -84,8 +84,8 @@ Level 3 | Advanced Network Attacks
 [44] | Packet Capture tool
 
 -------------------------------------------------------------------------------------------
-Level 4 | Data analysis, payloads and more networking
-------------------------------------------------|------------------------------------------
+Level 4 | Data analysis, payloads and more networking | Complete
+------------------------------------------------|------------------------------------------|--------------------------------------------
 [45] | Packet Data analysis
 [46] | Packet image analysis with OpenCV
 [47] | Develop a hexdump tool
@@ -114,8 +114,8 @@ Level 4 | Data analysis, payloads and more networking
 [70] | Windows token privilege escalation tool
 
 ------------------------------------------------------------------------------------------
- Level 5 | Cryptography, Reverse Engineering and Post exploitation
-------------------------------------------------|------------------------------------------
+ Level 5 | Cryptography, Reverse Engineering and Post exploitation | Complete
+------------------------------------------------|------------------------------------------|--------------------------------------------
 [71] | Develop a code injection tool
 [72] | Develop a Worm with auto replication over email
 [73] | Simple Disassembler
